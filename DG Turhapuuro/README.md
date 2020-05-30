@@ -1,3 +1,5 @@
+Based on **ANYCUBIC I3 Mega modif extrudeur Flex/TPU** by Iceman51 https://www.thingiverse.com/thing:2264916
+
 ## Parts needed
 ### Stock extruder
 * Stepper motor
