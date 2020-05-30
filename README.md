@@ -17,3 +17,6 @@ Anti-backlash nut for T8x8 lead screw. My lead screws had like 0.5-1mm slack.
 
 3 sizes, S has tightest thread, L the loosest fit. Use the one that fits best and rotates fairly smoothly after passing screw end. Expand XY if none are good.
 Use M2.5 or M3 screws (drill/tap holes for good fit) to tighten, ~2pcs/nut. Screw tips go to bolt ends and prevent rotation.
+
+## DG Turhapuuro
+Dual-gear extruder using parts from BMG clone and Anycubic i3 Mega (non-S) stock extruder. Easy to load filament ;)
