@@ -20,3 +20,14 @@ Use M2.5 or M3 screws (drill/tap holes for good fit) to tighten, ~2pcs/nut. Scre
 
 ## DG Turhapuuro
 Dual-gear extruder using parts from BMG clone and Anycubic i3 Mega (non-S) stock extruder. Easy to load filament ;)
+
+## Tunnel
+Hot end sides with cooling duct and front leds
+
+**NB! Rear part cooler needed, original part cooling cannot be used!**
+
+## Simple direct
+Simple Titan clone - to - direct adapter.
+
+**NB** Ventilation slots on hotend cover are mostly blocked!
+**NB** Max build height is 160mm
