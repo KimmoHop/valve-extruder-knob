@@ -15,7 +15,9 @@ Simple direct extruder for AnyCubic i3 Mage (S)
     * Taking everything apart is pain... ;)
 * Print bottom 2 mm of the adapter to check alignment of slots and crew holes as well as accessibility from below.
     * Front 2 holes are enough
-* Print adapter and thread holes from bottom with screw or M3 threading tool
+* Print adapter
+    * Remove integral supports from stepper hole, careful with that knife!
+    * Thread holes from bottom with screw or M3 threading tool
 
 ## Assembly
 * Attach cable holder
