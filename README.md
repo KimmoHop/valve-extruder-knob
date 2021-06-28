@@ -31,3 +31,6 @@ Simple Titan clone - to - direct adapter.
 
 **NB** Ventilation slots on hotend cover are mostly blocked!
 **NB** Max build height is 160mm
+
+## TitanDirect2
+Titan + V6/6Lite + dual 4010 part cooling
