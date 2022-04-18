@@ -37,3 +37,6 @@ Titan + V6/6Lite + dual 4010 part cooling
 
 ## Rotak nut
 Handlebar nut for Bosch Rotak 32 electric lawn mover
+
+## Aquila bed corners
+Remix of https://www.thingiverse.com/thing:4868422 for silicon spacers and rear glass tabs
