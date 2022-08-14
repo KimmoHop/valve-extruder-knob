@@ -40,3 +40,6 @@ Handlebar nut for Bosch Rotak 32 electric lawn mover
 
 ## Aquila bed corners
 Remix of https://www.thingiverse.com/thing:4868422 for silicon spacers and rear glass tabs
+
+## Ender 3 Aquila Unitak Titan direct
+Titan clone (not inverted) mount for _UniTak3D Ender 3 Direct Drive Upgrade Kit Conversion Mount for Ender 3 V2, Ender 3 Pro and Voxelab Aquila 3D Printer Compatible with BMG Dual Drive & Bowden Extruder & Dual Gear Extruder_
