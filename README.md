@@ -46,3 +46,6 @@ Titan clone (not inverted) mount for _UniTak3D Ender 3 Direct Drive Upgrade Kit 
 
 ## Ander 3 Aquila Unitak Orbiter 2.0 direct drive mount
 Orbiter 2.0 extruder mount for _UniTak3D Ender 3 Direct Drive Upgrade Kit Conversion Mount for Ender 3 V2, Ender 3 Pro and Voxelab Aquila 3D Printer Compatible with BMG Dual Drive & Bowden Extruder & Dual Gear Extruder_
+
+## Elegoo power switch / USB cover
+Sliding cover to prevent powering Elegoo Mars 4 with USB stick in it.
