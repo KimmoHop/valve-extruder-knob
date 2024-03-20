@@ -1,7 +1,18 @@
-CC-BY-NC-SA
+All derived work (models with attribution) is licenced by the original work.
+For other files:
 
-These files are licenced under Creative Commons CC BY-NC-SA 4.0 license. License enables reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under identical terms. CC BY-NC-SA includes the following elements:
+Models downloaded before 2024-02-21: MIT license
+Models downloaded before 2024-03-20: CC-BY-NC-SA
+Models downloaded on or after 2024-03-20: CC-BY-NC-SA with exception
 
- BY: credit must be given to the creator.
+CC-BY-NC-SA with exception
+
+These files are licenced under Creative Commons CC BY-NC-SA 4.0 license with exception. License enables reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under identical terms.
+Exception to CC-BY-NC-SA: Distributing these files in services that require login to download (e.g. MakerWorld, Thangs) is prohibited. Downloading these files anonymously must be free.
+
+CC BY-NC-SA with exception includes the following elements:
+
+ BY: Credit must be given to the creator.
  NC: Only noncommercial uses of the work are permitted.
  SA: Adaptations must be shared under the same terms.
+ Exception: Anonymous downloading (without login) must be possible.
