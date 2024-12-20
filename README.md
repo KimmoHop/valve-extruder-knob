@@ -49,3 +49,6 @@ Orbiter 2.0 extruder mount for _UniTak3D Ender 3 Direct Drive Upgrade Kit Conver
 
 ## Elegoo power switch / USB cover
 Sliding cover to prevent powering Elegoo Mars 4 with USB stick in it.
+
+## Aquila A1 hotend
+Bambu Lab A1 hotend and Orbiter 2.0 extruder for Aquila original X carriage, 4010 blower heasink cooling
