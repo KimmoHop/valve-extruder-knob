@@ -4,7 +4,7 @@ Bambu Lab A1 hotend with Orbiter 2 extruder for Voxelab Aquila (Ender 3 V2 clone
 > Part cooling duct is not included in files!
 
 ## About design
-![Overview](Aquila A1 all side.jpg)
+![Overview](overview_side.jpg)
 I wanted to use A1 hotend so that nozzle changes would be easier. It is quite easy to pull threads from cheap V6 aluminum heat block or stick volcano nozzle to heat block with little leak.
 
 Though A1 nozzles are quite constant in length, putting them at precisely same height is not as easy. Without Z-offset sensor it is usually necessary to run short one layer test and tune Z-offset.
@@ -12,7 +12,7 @@ Though A1 nozzles are quite constant in length, putting them at precisely same h
 In the end we got also A1 Mini in the house, where 0.2 mm nozzle is used a lot. It is a lot easier and better printer for 0.2 mm ;)
 
 ## Parts
-![Assembly](Aquila A1 heater.jpg)
+![Assembly](heater.jpg)
 * Orbiter 2 extruder
 * Bambu Lab A1 Hotend Heating Assembly (includes mounting screws but no nuts)
 * Bambu Lab A1 nozzle
@@ -22,7 +22,7 @@ In the end we got also A1 Mini in the house, where 0.2 mm nozzle is used a lot. 
 * Part cooling fan and duct
 
 ## Printed parts
-![TinkerCad](Aquila A1 less side.jpg)
+![TinkerCad](other_side.jpg)
 * Base
     * Use high infill so that base does not "give" under mounting bolt pressure and allow them to loosen
     * PLA+ is good (ordinary PLA should be too) for unenclosed printer as well as PETG. Enclosed printer probably benefits from ABS/ASA or similar temperature resistant filament.
